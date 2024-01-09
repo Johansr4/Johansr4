@@ -31,9 +31,6 @@ Acerca de mí
 
 
 
-
-Proyectos Destacados
-
 Aquí encontrarás algunos de mis proyectos destacados. ¡Echa un vistazo y déjame saber tus comentarios!
 
 Contacto
