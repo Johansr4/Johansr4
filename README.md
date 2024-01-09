@@ -1,6 +1,6 @@
-### Hi there 👋
 
-Bienvenido a mi Repositorio en GitHub 👋
+
+### Bienvenido a mi Repositorio en GitHub 👋
 ¡Hola! Soy Johan, un apasionado desarrollador multiplataforma con experiencia en diversas tecnologías como Java, SQL, JavaScript, Python, Kotlin y HTML/CSS. Me gradué en el centro Cesur Audiovisual en Murcia, donde adquirí conocimientos sólidos y habilidades que he estado perfeccionando a lo largo de mi carrera.
 
 Acerca de mí
