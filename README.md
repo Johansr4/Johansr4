@@ -33,7 +33,7 @@ Acerca de mí
 
 Aquí encontrarás algunos de mis proyectos destacados. ¡Echa un vistazo y déjame saber tus comentarios!
 
-Contacto
-💼 LinkedIn: www.linkedin.com/in/juan-sanchez-ruiz-08ba9b273
+
+LinkedIn: www.linkedin.com/in/juan-sanchez-ruiz-08ba9b273
 
 
