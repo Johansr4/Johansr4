@@ -15,10 +15,10 @@
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bootstrap.svg" title="BootStrap" alt="BootStrap" width="50" height="50"/>&nbsp;
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bash-Dark.svg" title="Bash" alt="Bash" width="50" height="50"/>
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg" title="Docker" alt="Docker" width="50" height="50"/>
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/IntelliJIDEA.svg" title="IntelliJ IDEA" alt="IntelliJ IDEA" width="50" height="50"/>&nbsp;
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Idea-Dark.svg" title="IntelliJ IDEA" alt="IntelliJ IDEA" width="50" height="50"/>&nbsp;
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MongoDB.svg" title="MongoDB" alt="MongoDB" width="50" height="50"/>&nbsp;
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/SpringBoot.svg" title="Spring Boot" alt="Spring Boot" width="50" height="50"/>&nbsp;
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VisualStudioCode.svg" title="Visual Studio Code" alt="Visual Studio Code" width="50" height="50"/>&nbsp;
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Spring-Dark.svg" title="Spring Boot" alt="Spring Boot" width="50" height="50"/>&nbsp;
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg" title="Visual Studio Code" alt="Visual Studio Code" width="50" height="50"/>&nbsp;
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Linux-Dark.svg" title="Linux" alt="Linux" width="50" height="50"/>&nbsp;
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" title="JavaScript" alt="JavaScript" width="50" height="50"/>&nbsp;
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Gradle-Dark.svg" title="Gradle" alt="Gradle" width="50" height="50"/>&nbsp;
