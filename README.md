@@ -15,7 +15,6 @@
     <img src="https://i.imgur.com/Y7Rp14Q.png" title="Spring Framework" alt="Spring Framework" width="70" height="70"/>
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Idea-Dark.svg" title="IntelliJ IDEA" alt="IntelliJ IDEA" width="70" height="70"/>
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MongoDB.svg" title="MongoDB" alt="MongoDB" width="70" height="70"/>
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Spring-Dark.svg" title="Spring Boot" alt="Spring Boot" width="70" height="70"/>
 </div>
 
 
