@@ -1,7 +1,7 @@
 
 
 ### Bienvenido a mi Repositorio en GitHub 👋
-¡Hola! Soy Johan, un apasionado desarrollador multiplataforma con experiencia en diversas tecnologías como Java, SQL, JavaScript, Python, Kotlin y HTML/CSS. Me gradué en el centro Cesur Audiovisual en Murcia, donde adquirí conocimientos sólidos sobre programacion, conceptos y habilidades que he estado perfeccionando a lo largo de mi carrera.
+¡Hola! Soy Johan, un apasionado desarrollador multiplataforma con experiencia en diversas tecnologías como Java, SQL, JavaScript, Python, Kotlin y HTML/CSS. Me gradué en el centro CESUR Audiovisual, donde adquirí conocimientos sólidos sobre programacion, conceptos y habilidades que he estado perfeccionando a lo largo de mi carrera.
 
 <div>
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>
