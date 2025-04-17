@@ -53,6 +53,5 @@ Acerca de mí
 Aquí encontrarás algunos de mis proyectos destacados. ¡Echa un vistazo y déjame saber tus comentarios!
 
 
-LinkedIn: www.linkedin.com/in/juan-sanchez-ruiz-08ba9b273
 
 
